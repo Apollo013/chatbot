@@ -1,3 +1,12 @@
+:root {
+    --background-light: #ffffff;
+    --background-medium: #faf8f8;
+    --background-dark: #0a628b;
+
+    --text-color-light: #ffffff;
+    --text-color-dark: #000000;
+}
+
 html {
     font-size: 62.5%;
 }
@@ -7,15 +16,6 @@ html {
     padding: 0;
     box-sizing: border-box;
     font-family: "Open Sans", sans-serif;
-}
-
-:root {
-    --background-light: #ffffff;
-    --background-medium: #faf8f8;
-    --background-dark: #0a628b;
-
-    --text-color-light: #ffffff;
-    --text-color-dark: #000000;
 }
 
 body {
