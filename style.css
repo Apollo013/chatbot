@@ -9,14 +9,16 @@ html {
     font-family: "Open Sans", sans-serif;
 }
 
-body {
+:root {
     --background-light: #ffffff;
     --background-medium: #faf8f8;
     --background-dark: #0a628b;
 
     --text-color-light: #ffffff;
     --text-color-dark: #000000;
+}
 
+body {
     background: #e3f2fd;
 }
 
